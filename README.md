@@ -1,1 +1,7 @@
 # Bull-Dozer-
+
+npx create-next-app@latest
+# or
+yarn create next-app
+# or
+pnpm create next-app
